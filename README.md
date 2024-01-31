@@ -10,11 +10,15 @@ Games:
 The C Game Site currently offers the following games:
 
 Cricket: A  An official scorecard abiding by all the rules implemented in real world.
+
 Random Number Guess: Guess the number before the opponent does.
+
 Football: An official scorecard according the rules.
 
 Technologies Used
 
 C Programming Language: Used for implementing the console-based games.
+
 Makefile: Used for compiling and building the games.
+
 Git: Version control for managing project history.
