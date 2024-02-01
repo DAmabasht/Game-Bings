@@ -4,7 +4,7 @@ The C Game Bings project is a platform that offers a collection of classic conso
 
 Project Description
 
-The C Game Site brings classic console games to a modern web environment. Users can access and play games directly in their terminal, experiencing the simplicity and fun of early video games. The project encourages users to enjoy the charm of console-based gaming and explore different games offered on the platform.
+The C Game Site brings classic console games to a modern web environment. Users can access and play games directly in their terminal, experiencing the simplicity and fun of early video games. The project encourages users to enjoy the charm of console-based gaming and explore different games offered on the platform.mkmkm
 
 Games: 
 The C Game Site currently offers the following games:
